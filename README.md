@@ -1,6 +1,6 @@
 # WinstonSquirrelchill
 <h3>
- Stick Hero Style Game with a Squirrel
+Game with a Squirrel
 </h3>
 <img src="https://github.com/groeneveldwoodstock/WinstonSquirrelchill/blob/main/squirrelchill.png" alt="Screen Shot" style="width:200px;">
 <h3>
