@@ -17,7 +17,7 @@ This app was created to teach and learn. All code used in creating the app is av
 </h3>
 <p>If you need to contact me you can reach out to me through https://github.com/groeneveldwoodstock or visit http://www.popecomputerscience.com/ or email me at richard.groeneveld@cobbk12.org 
 </p>
-<h3>Download From The App Store!>
+<h3>Download From The App Store!</h3>
 <img src="https://github.com/groeneveldwoodstock/WinstonSquirrelchill/blob/main/qrcode_apps.apple.com.png" alt="Screen Shot" style="width:200px;">
 <hr>
 <p>
